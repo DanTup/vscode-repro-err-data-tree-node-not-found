@@ -10,7 +10,7 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"workspaceContains:trigger.txt"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
